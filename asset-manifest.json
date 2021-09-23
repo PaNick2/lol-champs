@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lol-champs/static/css/main.acd02688.chunk.css",
+    "main.js": "/lol-champs/static/js/main.94ac114c.chunk.js",
+    "main.js.map": "/lol-champs/static/js/main.94ac114c.chunk.js.map",
+    "runtime-main.js": "/lol-champs/static/js/runtime-main.408cd1e1.js",
+    "runtime-main.js.map": "/lol-champs/static/js/runtime-main.408cd1e1.js.map",
+    "static/js/2.117b0047.chunk.js": "/lol-champs/static/js/2.117b0047.chunk.js",
+    "static/js/2.117b0047.chunk.js.map": "/lol-champs/static/js/2.117b0047.chunk.js.map",
+    "static/js/3.489ec66a.chunk.js": "/lol-champs/static/js/3.489ec66a.chunk.js",
+    "static/js/3.489ec66a.chunk.js.map": "/lol-champs/static/js/3.489ec66a.chunk.js.map",
+    "index.html": "/lol-champs/index.html",
+    "static/css/main.acd02688.chunk.css.map": "/lol-champs/static/css/main.acd02688.chunk.css.map",
+    "static/js/2.117b0047.chunk.js.LICENSE.txt": "/lol-champs/static/js/2.117b0047.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/lol-champs/static/media/lol-bckg.93d10772.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.408cd1e1.js",
+    "static/js/2.117b0047.chunk.js",
+    "static/css/main.acd02688.chunk.css",
+    "static/js/main.94ac114c.chunk.js"
+  ]
+}
