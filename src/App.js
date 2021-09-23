@@ -1,25 +1,29 @@
-import logo from './logo.svg';
+import React, { useState, useEffect } from 'react';
 import './App.css';
+import Cardlist from './Cardlist/Cardlist';
+import { robots } from './robots.js';
+import Searchbox from './Searchbox/Searchbox';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+const App = () => {
+    const [filteredRobots, setFilteredRobots] = useState(robots)
+    const [searchfield, setSearchfield] = useState("")
+    useEffect(() => {
+        const filter = () => robots.filter(robot => {
+            return robot.name.toLowerCase().includes(searchfield.toLowerCase())
+        })
+        setFilteredRobots(filter)
+    },[searchfield])
+
+
+
+    return (
+        <div>
+            <h1>League of Legends</h1>
+            <Searchbox searchfield={searchfield} setSearchfield={setSearchfield}/>
+            <Cardlist robots={filteredRobots}/>       
+        </div>
+
+    )
 }
 
 export default App;
