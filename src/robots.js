@@ -887,45 +887,45 @@ export const robots = [
     },
     "description": "In Noxus, warriors known as Reckoners face one another in arenas where blood is spilled and strength tested—but none has ever been as celebrated as Draven. A former soldier, he found that the crowds uniquely appreciated his flair for the dramatic, and..."
   },
-  {
-    "id": "drmundo",
-    "key": "36",
-    "name": "Dr. Mundo",
-    "title": "the Madman of Zaun",
-    "tags": [
-      "Fighter",
-      "Tank"
-    ],
-    "stats": {
-      "hp": 582.52,
-      "hpperlevel": 89,
-      "mp": 0,
-      "mpperlevel": 0,
-      "movespeed": 345,
-      "armor": 36,
-      "armorperlevel": 3.5,
-      "spellblock": 32.1,
-      "spellblockperlevel": 1.25,
-      "attackrange": 125,
-      "hpregen": 8,
-      "hpregenperlevel": 0.75,
-      "mpregen": 0,
-      "mpregenperlevel": 0,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 61.27,
-      "attackdamageperlevel": 3.5,
-      "attackspeedperlevel": 2.8,
-      "attackspeed": 0.721
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/champion/DrMundo.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/sprite/champion0.png",
-      "x": 144,
-      "y": 96
-    },
-    "description": "Utterly insane, unrepentantly homicidal, and horrifyingly purple, Dr. Mundo is what keeps many of Zaun's citizens indoors on particularly dark nights. This monosyllabic monstrosity seems to want nothing more than pain—both the giving of it, and the..."
-  },
+  // {
+  //   "id": "drmundo",
+  //   "key": "36",
+  //   "name": "Dr. Mundo",
+  //   "title": "the Madman of Zaun",
+  //   "tags": [
+  //     "Fighter",
+  //     "Tank"
+  //   ],
+  //   "stats": {
+  //     "hp": 582.52,
+  //     "hpperlevel": 89,
+  //     "mp": 0,
+  //     "mpperlevel": 0,
+  //     "movespeed": 345,
+  //     "armor": 36,
+  //     "armorperlevel": 3.5,
+  //     "spellblock": 32.1,
+  //     "spellblockperlevel": 1.25,
+  //     "attackrange": 125,
+  //     "hpregen": 8,
+  //     "hpregenperlevel": 0.75,
+  //     "mpregen": 0,
+  //     "mpregenperlevel": 0,
+  //     "crit": 0,
+  //     "critperlevel": 0,
+  //     "attackdamage": 61.27,
+  //     "attackdamageperlevel": 3.5,
+  //     "attackspeedperlevel": 2.8,
+  //     "attackspeed": 0.721
+  //   },
+  //   "icon": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/champion/DrMundo.png",
+  //   "sprite": {
+  //     "url": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/sprite/champion0.png",
+  //     "x": 144,
+  //     "y": 96
+  //   },
+  //   "description": "Utterly insane, unrepentantly homicidal, and horrifyingly purple, Dr. Mundo is what keeps many of Zaun's citizens indoors on particularly dark nights. This monosyllabic monstrosity seems to want nothing more than pain—both the giving of it, and the..."
+  // },
   {
     "id": "ekko",
     "key": "245",
@@ -1082,45 +1082,45 @@ export const robots = [
     },
     "description": "A dashing adventurer, unknowingly gifted in the magical arts, Ezreal raids long-lost catacombs, tangles with ancient curses, and overcomes seemingly impossible odds with ease. His courage and bravado knowing no bounds, he prefers to improvise his way..."
   },
-  {
-    "id": "fiddlesticks",
-    "key": "9",
-    "name": "Fiddlesticks",
-    "title": "the Ancient Fear",
-    "tags": [
-      "Mage",
-      "Support"
-    ],
-    "stats": {
-      "hp": 580.4,
-      "hpperlevel": 92,
-      "mp": 500,
-      "mpperlevel": 28,
-      "movespeed": 335,
-      "armor": 34,
-      "armorperlevel": 3.5,
-      "spellblock": 30,
-      "spellblockperlevel": 0.5,
-      "attackrange": 480,
-      "hpregen": 5.5,
-      "hpregenperlevel": 0.6,
-      "mpregen": 8,
-      "mpregenperlevel": 0.8,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 55.36,
-      "attackdamageperlevel": 2.625,
-      "attackspeedperlevel": 2.11,
-      "attackspeed": 0.625
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/champion/Fiddlesticks.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/sprite/champion0.png",
-      "x": 384,
-      "y": 96
-    },
-    "description": "Something has awoken in Runeterra. Something ancient. Something terrible. The ageless horror known as Fiddlesticks stalks the edges of mortal society, drawn to areas thick with paranoia where it feeds upon terrorized victims. Wielding a jagged scythe..."
-  },
+  // {
+  //   "id": "fiddlesticks",
+  //   "key": "9",
+  //   "name": "Fiddlesticks",
+  //   "title": "the Ancient Fear",
+  //   "tags": [
+  //     "Mage",
+  //     "Support"
+  //   ],
+  //   "stats": {
+  //     "hp": 580.4,
+  //     "hpperlevel": 92,
+  //     "mp": 500,
+  //     "mpperlevel": 28,
+  //     "movespeed": 335,
+  //     "armor": 34,
+  //     "armorperlevel": 3.5,
+  //     "spellblock": 30,
+  //     "spellblockperlevel": 0.5,
+  //     "attackrange": 480,
+  //     "hpregen": 5.5,
+  //     "hpregenperlevel": 0.6,
+  //     "mpregen": 8,
+  //     "mpregenperlevel": 0.8,
+  //     "crit": 0,
+  //     "critperlevel": 0,
+  //     "attackdamage": 55.36,
+  //     "attackdamageperlevel": 2.625,
+  //     "attackspeedperlevel": 2.11,
+  //     "attackspeed": 0.625
+  //   },
+  //   "icon": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/champion/Fiddlesticks.png",
+  //   "sprite": {
+  //     "url": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/sprite/champion0.png",
+  //     "x": 384,
+  //     "y": 96
+  //   },
+  //   "description": "Something has awoken in Runeterra. Something ancient. Something terrible. The ageless horror known as Fiddlesticks stalks the edges of mortal society, drawn to areas thick with paranoia where it feeds upon terrorized victims. Wielding a jagged scythe..."
+  // },
   {
     "id": "fiora",
     "key": "114",
@@ -2478,45 +2478,45 @@ export const robots = [
     },
     "description": "Imbued with the fire of the sun, Leona is a holy warrior of the Solari who defends Mount Targon with her Zenith Blade and the Shield of Daybreak. Her skin shimmers with starfire while her eyes burn with the power of the celestial Aspect within her..."
   },
-  {
-    "id": "lillia",
-    "key": "876",
-    "name": "Lillia",
-    "title": "the Bashful Bloom",
-    "tags": [
-      "Fighter",
-      "Mage"
-    ],
-    "stats": {
-      "hp": 580,
-      "hpperlevel": 90,
-      "mp": 410,
-      "mpperlevel": 50,
-      "movespeed": 330,
-      "armor": 20,
-      "armorperlevel": 4,
-      "spellblock": 32.1,
-      "spellblockperlevel": 0.75,
-      "attackrange": 325,
-      "hpregen": 9,
-      "hpregenperlevel": 0.75,
-      "mpregen": 11.5,
-      "mpregenperlevel": 0.95,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 61,
-      "attackdamageperlevel": 3.1,
-      "attackspeedperlevel": 2.7,
-      "attackspeed": 0.625
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/champion/Lillia.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/sprite/champion2.png",
-      "x": 192,
-      "y": 0
-    },
-    "description": "Intensely shy, the fae fawn Lillia skittishly wanders Ionia's forests. Hiding just out of sight of mortals—whose mysterious natures have long captivated, but intimidated, her—Lillia hopes to discover why their dreams no longer reach the ancient Dreaming..."
-  },
+  // {
+  //   "id": "lillia",
+  //   "key": "876",
+  //   "name": "Lillia",
+  //   "title": "the Bashful Bloom",
+  //   "tags": [
+  //     "Fighter",
+  //     "Mage"
+  //   ],
+  //   "stats": {
+  //     "hp": 580,
+  //     "hpperlevel": 90,
+  //     "mp": 410,
+  //     "mpperlevel": 50,
+  //     "movespeed": 330,
+  //     "armor": 20,
+  //     "armorperlevel": 4,
+  //     "spellblock": 32.1,
+  //     "spellblockperlevel": 0.75,
+  //     "attackrange": 325,
+  //     "hpregen": 9,
+  //     "hpregenperlevel": 0.75,
+  //     "mpregen": 11.5,
+  //     "mpregenperlevel": 0.95,
+  //     "crit": 0,
+  //     "critperlevel": 0,
+  //     "attackdamage": 61,
+  //     "attackdamageperlevel": 3.1,
+  //     "attackspeedperlevel": 2.7,
+  //     "attackspeed": 0.625
+  //   },
+  //   "icon": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/champion/Lillia.png",
+  //   "sprite": {
+  //     "url": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/sprite/champion2.png",
+  //     "x": 192,
+  //     "y": 0
+  //   },
+  //   "description": "Intensely shy, the fae fawn Lillia skittishly wanders Ionia's forests. Hiding just out of sight of mortals—whose mysterious natures have long captivated, but intimidated, her—Lillia hopes to discover why their dreams no longer reach the ancient Dreaming..."
+  // },
   {
     "id": "lissandra",
     "key": "127",
@@ -3876,44 +3876,44 @@ export const robots = [
     },
     "description": "Widely considered one of the most adept sorcerers on Runeterra, Ryze is an ancient, hard-bitten archmage with an impossibly heavy burden to bear. Armed with immense arcane power and a boundless constitution, he tirelessly hunts for World Runes—fragments..."
   },
-  {
-    "id": "samira",
-    "key": "360",
-    "name": "Samira",
-    "title": "the Desert Rose",
-    "tags": [
-      "Marksman"
-    ],
-    "stats": {
-      "hp": 530,
-      "hpperlevel": 88,
-      "mp": 348.88,
-      "mpperlevel": 38,
-      "movespeed": 335,
-      "armor": 26,
-      "armorperlevel": 3,
-      "spellblock": 30,
-      "spellblockperlevel": 0.5,
-      "attackrange": 500,
-      "hpregen": 3.25,
-      "hpregenperlevel": 0.55,
-      "mpregen": 8.176,
-      "mpregenperlevel": 0.7,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 57,
-      "attackdamageperlevel": 2.3,
-      "attackspeedperlevel": 3.3,
-      "attackspeed": 0.658
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/champion/Samira.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/sprite/champion3.png",
-      "x": 0,
-      "y": 48
-    },
-    "description": "Samira stares death in the eye with unyielding confidence, seeking thrill wherever she goes. After her Shuriman home was destroyed as a child, Samira found her true calling in Noxus, where she built a reputation as a stylish daredevil taking on..."
-  },
+  // {
+  //   "id": "samira",
+  //   "key": "360",
+  //   "name": "Samira",
+  //   "title": "the Desert Rose",
+  //   "tags": [
+  //     "Marksman"
+  //   ],
+  //   "stats": {
+  //     "hp": 530,
+  //     "hpperlevel": 88,
+  //     "mp": 348.88,
+  //     "mpperlevel": 38,
+  //     "movespeed": 335,
+  //     "armor": 26,
+  //     "armorperlevel": 3,
+  //     "spellblock": 30,
+  //     "spellblockperlevel": 0.5,
+  //     "attackrange": 500,
+  //     "hpregen": 3.25,
+  //     "hpregenperlevel": 0.55,
+  //     "mpregen": 8.176,
+  //     "mpregenperlevel": 0.7,
+  //     "crit": 0,
+  //     "critperlevel": 0,
+  //     "attackdamage": 57,
+  //     "attackdamageperlevel": 2.3,
+  //     "attackspeedperlevel": 3.3,
+  //     "attackspeed": 0.658
+  //   },
+  //   "icon": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/champion/Samira.png",
+  //   "sprite": {
+  //     "url": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/sprite/champion3.png",
+  //     "x": 0,
+  //     "y": 48
+  //   },
+  //   "description": "Samira stares death in the eye with unyielding confidence, seeking thrill wherever she goes. After her Shuriman home was destroyed as a child, Samira found her true calling in Noxus, where she built a reputation as a stylish daredevil taking on..."
+  // },
   {
     "id": "sejuani",
     "key": "113",
@@ -3992,45 +3992,45 @@ export const robots = [
     },
     "description": "Cursed from childhood to be haunted by the supernatural Black Mist, Senna joined a sacred order known as the Sentinels of Light, and fiercely fought back—only to be killed, her soul imprisoned in a lantern by the cruel wraith Thresh. But refusing to..."
   },
-  {
-    "id": "seraphine",
-    "key": "147",
-    "name": "Seraphine",
-    "title": "the Starry-Eyed Songstress",
-    "tags": [
-      "Mage",
-      "Support"
-    ],
-    "stats": {
-      "hp": 500,
-      "hpperlevel": 80,
-      "mp": 440,
-      "mpperlevel": 40,
-      "movespeed": 325,
-      "armor": 19,
-      "armorperlevel": 3,
-      "spellblock": 30,
-      "spellblockperlevel": 0.5,
-      "attackrange": 525,
-      "hpregen": 6.5,
-      "hpregenperlevel": 0.6,
-      "mpregen": 8,
-      "mpregenperlevel": 1,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 55,
-      "attackdamageperlevel": 3,
-      "attackspeedperlevel": 1,
-      "attackspeed": 0.669
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/champion/Seraphine.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/sprite/champion3.png",
-      "x": 144,
-      "y": 48
-    },
-    "description": "Born in Piltover to Zaunite parents, Seraphine can hear the souls of others—the world sings to her, and she sings back. Though these sounds overwhelmed her in her youth, she now draws on them for inspiration, turning the chaos into a symphony. She..."
-  },
+  // {
+  //   "id": "seraphine",
+  //   "key": "147",
+  //   "name": "Seraphine",
+  //   "title": "the Starry-Eyed Songstress",
+  //   "tags": [
+  //     "Mage",
+  //     "Support"
+  //   ],
+  //   "stats": {
+  //     "hp": 500,
+  //     "hpperlevel": 80,
+  //     "mp": 440,
+  //     "mpperlevel": 40,
+  //     "movespeed": 325,
+  //     "armor": 19,
+  //     "armorperlevel": 3,
+  //     "spellblock": 30,
+  //     "spellblockperlevel": 0.5,
+  //     "attackrange": 525,
+  //     "hpregen": 6.5,
+  //     "hpregenperlevel": 0.6,
+  //     "mpregen": 8,
+  //     "mpregenperlevel": 1,
+  //     "crit": 0,
+  //     "critperlevel": 0,
+  //     "attackdamage": 55,
+  //     "attackdamageperlevel": 3,
+  //     "attackspeedperlevel": 1,
+  //     "attackspeed": 0.669
+  //   },
+  //   "icon": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/champion/Seraphine.png",
+  //   "sprite": {
+  //     "url": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/sprite/champion3.png",
+  //     "x": 144,
+  //     "y": 48
+  //   },
+  //   "description": "Born in Piltover to Zaunite parents, Seraphine can hear the souls of others—the world sings to her, and she sings back. Though these sounds overwhelmed her in her youth, she now draws on them for inspiration, turning the chaos into a symphony. She..."
+  // },
   {
     "id": "sett",
     "key": "875",
@@ -5309,45 +5309,45 @@ export const robots = [
     },
     "description": "A fiend with a thirst for mortal blood, Vladimir has influenced the affairs of Noxus since the empire's earliest days. In addition to unnaturally extending his life, his mastery of hemomancy allows him to control the minds and bodies of others as easily..."
   },
-  {
-    "id": "volibear",
-    "key": "106",
-    "name": "Volibear",
-    "title": "the Relentless Storm",
-    "tags": [
-      "Fighter",
-      "Tank"
-    ],
-    "stats": {
-      "hp": 580,
-      "hpperlevel": 90,
-      "mp": 350,
-      "mpperlevel": 70,
-      "movespeed": 340,
-      "armor": 31,
-      "armorperlevel": 4,
-      "spellblock": 32,
-      "spellblockperlevel": 1.25,
-      "attackrange": 150,
-      "hpregen": 9,
-      "hpregenperlevel": 0.75,
-      "mpregen": 6.25,
-      "mpregenperlevel": 0.5,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 60,
-      "attackdamageperlevel": 3,
-      "attackspeedperlevel": 2,
-      "attackspeed": 0.625
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/champion/Volibear.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/sprite/champion4.png",
-      "x": 336,
-      "y": 48
-    },
-    "description": "To those who still revere him, the Volibear is the storm made manifest. Destructive, wild, and stubbornly resolute, he existed before mortals walked the Freljord's tundra, and is fiercely protective of the lands that he and his demi-god kin created..."
-  },
+  // {
+  //   "id": "volibear",
+  //   "key": "106",
+  //   "name": "Volibear",
+  //   "title": "the Relentless Storm",
+  //   "tags": [
+  //     "Fighter",
+  //     "Tank"
+  //   ],
+  //   "stats": {
+  //     "hp": 580,
+  //     "hpperlevel": 90,
+  //     "mp": 350,
+  //     "mpperlevel": 70,
+  //     "movespeed": 340,
+  //     "armor": 31,
+  //     "armorperlevel": 4,
+  //     "spellblock": 32,
+  //     "spellblockperlevel": 1.25,
+  //     "attackrange": 150,
+  //     "hpregen": 9,
+  //     "hpregenperlevel": 0.75,
+  //     "mpregen": 6.25,
+  //     "mpregenperlevel": 0.5,
+  //     "crit": 0,
+  //     "critperlevel": 0,
+  //     "attackdamage": 60,
+  //     "attackdamageperlevel": 3,
+  //     "attackspeedperlevel": 2,
+  //     "attackspeed": 0.625
+  //   },
+  //   "icon": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/champion/Volibear.png",
+  //   "sprite": {
+  //     "url": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/sprite/champion4.png",
+  //     "x": 336,
+  //     "y": 48
+  //   },
+  //   "description": "To those who still revere him, the Volibear is the storm made manifest. Destructive, wild, and stubbornly resolute, he existed before mortals walked the Freljord's tundra, and is fiercely protective of the lands that he and his demi-god kin created..."
+  // },
   {
     "id": "warwick",
     "key": "19",
@@ -5541,45 +5541,45 @@ export const robots = [
     },
     "description": "An Ionian of deep resolve, Yasuo is an agile swordsman who wields the air itself against his enemies. As a proud young man, he was falsely accused of murdering his master—unable to prove his innocence, he was forced to slay his own brother in self..."
   },
-  {
-    "id": "yone",
-    "key": "777",
-    "name": "Yone",
-    "title": "the Unforgotten",
-    "tags": [
-      "Assassin",
-      "Fighter"
-    ],
-    "stats": {
-      "hp": 550,
-      "hpperlevel": 85,
-      "mp": 500,
-      "mpperlevel": 0,
-      "movespeed": 345,
-      "armor": 28,
-      "armorperlevel": 3.4,
-      "spellblock": 32,
-      "spellblockperlevel": 1.25,
-      "attackrange": 175,
-      "hpregen": 7.5,
-      "hpregenperlevel": 0.75,
-      "mpregen": 0,
-      "mpregenperlevel": 0,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 60,
-      "attackdamageperlevel": 3,
-      "attackspeedperlevel": 2.5,
-      "attackspeed": 0.625
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/champion/Yone.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/sprite/champion4.png",
-      "x": 144,
-      "y": 96
-    },
-    "description": "In life, he was Yone—half-brother of Yasuo, and renowned student of his village's sword school. But upon his death at the hands of his brother, he found himself hunted by a malevolent entity of the spirit realm, and was forced to slay it with its own..."
-  },
+  // {
+  //   "id": "yone",
+  //   "key": "777",
+  //   "name": "Yone",
+  //   "title": "the Unforgotten",
+  //   "tags": [
+  //     "Assassin",
+  //     "Fighter"
+  //   ],
+  //   "stats": {
+  //     "hp": 550,
+  //     "hpperlevel": 85,
+  //     "mp": 500,
+  //     "mpperlevel": 0,
+  //     "movespeed": 345,
+  //     "armor": 28,
+  //     "armorperlevel": 3.4,
+  //     "spellblock": 32,
+  //     "spellblockperlevel": 1.25,
+  //     "attackrange": 175,
+  //     "hpregen": 7.5,
+  //     "hpregenperlevel": 0.75,
+  //     "mpregen": 0,
+  //     "mpregenperlevel": 0,
+  //     "crit": 0,
+  //     "critperlevel": 0,
+  //     "attackdamage": 60,
+  //     "attackdamageperlevel": 3,
+  //     "attackspeedperlevel": 2.5,
+  //     "attackspeed": 0.625
+  //   },
+  //   "icon": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/champion/Yone.png",
+  //   "sprite": {
+  //     "url": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/sprite/champion4.png",
+  //     "x": 144,
+  //     "y": 96
+  //   },
+  //   "description": "In life, he was Yone—half-brother of Yasuo, and renowned student of his village's sword school. But upon his death at the hands of his brother, he found himself hunted by a malevolent entity of the spirit realm, and was forced to slay it with its own..."
+  // },
   {
     "id": "yorick",
     "key": "83",
