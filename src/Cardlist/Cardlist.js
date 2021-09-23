@@ -10,6 +10,7 @@ const Cardlist = ({ robots }) => {
             id={robots[i].id} 
             name={robots[i].name} 
             title={robots[i].title}
+            description={robots[i].description}
             />
             )
     })
